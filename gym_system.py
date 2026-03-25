@@ -1,4 +1,4 @@
-# Smart Gym Membership System Prototype
+# Smart Gym Membership System Prototype # Version 1.1 - Finalized Booking Logic
 users = {"user@nci.ie": "password123"}
 classes = {"1": {"name": "Yoga", "time": "10:00 AM", "capacity": 2},
            "2": {"name": "Spinning", "time": "12:00 PM", "capacity": 15}}
